@@ -1,0 +1,23 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "\"# redis-cache-test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanghanhee/redis-cache-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanghanhee/redis-cache-test/issues"
+  },
+  "homepage": "https://github.com/kanghanhee/redis-cache-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ioredis": "^5.3.0"
+  }
+}
